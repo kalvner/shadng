@@ -42,8 +42,8 @@
     "react": "^18 || ^19"
   },
   "dependencies": {
-    "@radix-ui/react-use-controllable-state": "^1.2.2",
-    "@xyflow/react": "^12.10.2",
+    "@radix-ui/react-use-controllable-state": "^1.2.6",
+    "@xyflow/react": "^12.11.3",
     "ai": "^6.0.191",
     "lucide-react": "^0.547.0",
     "motion": "^12.40.0",
